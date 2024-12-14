@@ -1,0 +1,2 @@
+# furkanMotoko
+motoko project
